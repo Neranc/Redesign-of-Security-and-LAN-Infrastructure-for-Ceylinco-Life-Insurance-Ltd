@@ -1,5 +1,7 @@
 # Security and LAN Infrastructure Redesign for Ceylinco Life Insurance Ltd  
-**Role:** Lead Network & Security Engineer (AcSys Networks)  
+<p>
+  <img src="https://img.shields.io/badge/Role-Lead%20Network%20%26%20Security%20Engineer-blue" width="350">
+</p>
 
 🔗 [Ceylinco Life Website](https://www.ceylincolife.com)  
 
